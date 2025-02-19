@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"R:/UnrealProjects/205_puzzle_game-main/205_puzzle_game/puzzleGame205/Content/Level/Default.umap",
+				"R:/UnrealProjects/205_puzzle_game-main/205_puzzle_game/puzzleGame205/Content/UI/Success.uasset",
+				"R:/UnrealProjects/205_puzzle_game-main/205_puzzle_game/puzzleGame205/Content/Level/Test.umap",
+				"R:/UnrealProjects/205_puzzle_game-main/205_puzzle_game/puzzleGame205/Content/Materials/M1_Rounded_Corner.uasset",
+				"R:/UnrealProjects/205_puzzle_game-main/205_puzzle_game/puzzleGame205/Content/Materials/M1_Rounded_Corner_Inst.uasset",
 				"R:/UnrealProjects/205_puzzle_game-main/puzzleGame205/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
