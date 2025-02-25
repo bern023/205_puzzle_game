@@ -1062,3 +1062,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.25-01.29.13:074][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2025.02.25-01.29.13:547][  4]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
 [2025.02.25-01.29.13:634][  4]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2025.02.25-01.31.04:266][931]LogDerivedDataCache: C:/Users/user-pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.177 and deleted 0 files with total size 0 MiB. Scanned 1926 files in 1916 folders with total size 49 MiB.
