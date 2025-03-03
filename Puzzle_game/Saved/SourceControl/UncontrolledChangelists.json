@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Success.uasset",
+				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/Levels/Success.umap",
+				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/Materials/M1_Rounded_Corners.uasset",
+				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/Materials/M1_Rounded_Corners_Inst.uasset",
 				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/Levels/MainMenuMap.umap",
 				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/UI/MainMenu.uasset",
 				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/UI/LevelSelect.uasset",
