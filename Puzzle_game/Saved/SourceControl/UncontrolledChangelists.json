@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/UI/MainMenu.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/UI/LevelSelect.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/UI/Success.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/__ExternalActors__/Levels/Level1/E/R2/89CTEQ8UTTVF5NGN8YZDUB.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/__ExternalObjects__/Levels/Level1/5/JX/51JAMCLXJX9SPNDSR5WZDR.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/__ExternalObjects__/Levels/Level1/A/10/BBO0BMWDWSZLR8L6MVWRN0.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/__ExternalObjects__/Levels/Level1/5/3J/GDDXW8BQG594DTU8OU6SBO.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/__ExternalObjects__/Levels/Level1/1/Z5/AOR3QDQ27FJECFX2JHBKJ5.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/__ExternalObjects__/Levels/Level1/0/Y5/M8BSI6V5IU0RFW0XV6XRR1.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/__ExternalObjects__/Levels/Level1/2/M0/4EKYOT2GYBZ70RP8NBU058.uasset",
+				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/Levels/Level1.umap",
 				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Success.uasset",
 				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/Levels/Success.umap",
 				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/Materials/M1_Rounded_Corners.uasset",
@@ -24,8 +37,6 @@
 				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/__ExternalActors__/Levels/Res_Test/7/E0/AW28HEUF2O7ISKRJTJK0YE.uasset",
 				"R:/UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/Levels/Res_Test.umap",
 				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/Levels/MainMenuMap.umap",
-				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/UI/MainMenu.uasset",
-				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/UI/LevelSelect.uasset",
 				"C:/Users/Admin/Documents/Yoobee-Stuff/Diploma yr2/Game/205_puzzle_game/Puzzle_game/Content/Levels/LevelSelectMap.umap"
 			]
 		}
