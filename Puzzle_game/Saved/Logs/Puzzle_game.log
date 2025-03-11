@@ -1539,3 +1539,237 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.10-23.15.27:217][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.03.10-23.15.27:219][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2025.03.10-23.15.27:235][627]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.03.10-23.16.41:981][113]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.16.41:981][113]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.16.43:232][233]LogSlate: Took 0.055347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.03.10-23.17.39:436][906]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.17.40:993][ 55]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.17.59:718][962]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.18.01:220][107]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.18.15:844][556]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.18.19:138][866]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.19.09:469][230]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.19.32:079][178]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.19.45:121][573]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.20.01:977][ 16]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.20.33:730][328]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.20.33:730][328]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.23.07:043][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.03.10-23.23.07:046][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu' took 0.058
+[2025.03.10-23.23.07:046][142]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/LevelSelect] ([2] browsable assets)...
+[2025.03.10-23.23.07:050][142]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/LevelSelect.LevelSelect]
+[2025.03.10-23.23.07:050][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/LevelSelect]
+[2025.03.10-23.23.07:100][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/LevelSelect_Auto1
+[2025.03.10-23.23.07:101][142]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/LevelSelect_Auto1202466514E01E998B8BB02B6DDA29101.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/LevelSelect_Auto1.uasset'
+[2025.03.10-23.23.07:101][142]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Success] ([2] browsable assets)...
+[2025.03.10-23.23.07:105][142]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Success.Success]
+[2025.03.10-23.23.07:105][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Success]
+[2025.03.10-23.23.07:105][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Success" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Success_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.10-23.23.07:112][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Success_Auto1
+[2025.03.10-23.23.07:113][142]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Success_Auto102F1456945012143A3E8A6A411632A39.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Success_Auto1.uasset'
+[2025.03.10-23.23.07:121][142]LogFileHelpers: Auto-saving content packages took 0.076
+[2025.03.10-23.23.09:041][360]BlueprintLog: New page: Compile Success
+[2025.03.10-23.23.09:113][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.03.10-23.23.11:100][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.10-23.23.11:104][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-23.23.11:164][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/LevelSelect" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/LevelSelect.uasset" SILENT=true
+[2025.03.10-23.23.11:174][576]LogSavePackage: Moving output files for package: /Game/UI/LevelSelect
+[2025.03.10-23.23.11:174][576]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/LevelSelectC6044F884C4E738B4941538A8F31B8EF.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/LevelSelect.uasset'
+[2025.03.10-23.23.11:178][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Success" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Success.uasset" SILENT=true
+[2025.03.10-23.23.11:186][576]LogSavePackage: Moving output files for package: /Game/UI/Success
+[2025.03.10-23.23.11:186][576]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Success1A804BA342CE3F6ADF00C69BDC37D06C.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Success.uasset'
+[2025.03.10-23.23.11:193][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 731 ms)
+[2025.03.10-23.23.11:207][576]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.10-23.23.11:207][576]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/LevelSelect.LevelSelect
+[2025.03.10-23.23.11:208][576]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Success.Success
+[2025.03.10-23.23.55:907][541]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.23.55:907][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.23.55:915][541]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.23.55:915][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.23.57:177][678]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.23.57:177][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.23.57:185][678]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.23.57:185][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.23.58:718][825]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.23.58:719][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.23.58:728][825]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.23.58:728][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.24.53:382][619]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.10-23.24.53:382][619]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.10-23.24.53:382][619]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.10-23.24.56:258][619]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2025.03.10-23.24.56:309][619]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.03.10-23.24.56:313][619]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.03.10-23.24.56:332][620]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.03.10-23.25.03:991][523]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Pause
+[2025.03.10-23.25.04:073][523]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.03.10-23.25.05:838][723]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Pause.Pause
+[2025.03.10-23.25.05:839][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-23.25.05:844][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-23.25.06:310][723]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.25.06:310][723]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.26.07:173][444]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.28.14:395][965]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.28.21:147][427]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.28.28:614][677]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.29.21:260][512]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.29.21:356][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.03.10-23.29.32:465][314]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.29.32:534][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2025.03.10-23.29.35:966][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.10-23.29.35:973][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-23.29.36:030][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset" SILENT=true
+[2025.03.10-23.29.36:034][556]LogSavePackage: Moving output files for package: /Game/UI/Pause
+[2025.03.10-23.29.36:034][556]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Pause94EED5B3425BEAB08683CFB1E7EAC3D8.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset'
+[2025.03.10-23.29.36:043][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 801 ms)
+[2025.03.10-23.29.36:051][556]AssetCheck: New page: Asset Save: Pause
+[2025.03.10-23.29.36:051][556]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause.Pause
+[2025.03.10-23.30.57:753][541]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.32.37:240][562]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2025.03.10-23.32.37:240][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-23.32.37:250][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-23.32.37:638][562]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.32.37:638][562]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.33.00:122][909]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.33.00:122][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.33.00:129][909]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-23.33.00:129][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-23.33.02:456][158]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Success.Success
+[2025.03.10-23.33.02:457][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-23.33.02:464][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-23.33.02:829][158]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.33.02:829][158]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.37.45:316][817]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.37.45:376][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.10-23.38.26:781][602]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.38.26:833][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.03.10-23.38.32:677][988]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.38.32:732][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.10-23.39.02:894][972]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.39.02:945][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.10-23.39.39:553][475]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.39.39:605][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.10-23.40.30:601][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.03.10-23.40.30:603][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu' took 0.040
+[2025.03.10-23.40.30:604][223]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Pause] ([2] browsable assets)...
+[2025.03.10-23.40.30:608][223]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Pause.Pause]
+[2025.03.10-23.40.30:608][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pause]
+[2025.03.10-23.40.30:608][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Pause_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.03.10-23.40.30:635][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pause_Auto2
+[2025.03.10-23.40.30:635][223]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Pause_Auto29CA5A4CF42C7E6E4F616968D05663777.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Pause_Auto2.uasset'
+[2025.03.10-23.40.30:636][223]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.03.10-23.44.18:029][701]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.44.27:401][923]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.44.37:143][293]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.44.44:207][750]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.44.50:217][140]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.45.04:778][674]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.45.10:270][874]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.45.20:052][320]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.45.28:615][867]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.45.43:269][591]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.45.50:252][845]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.45.56:835][128]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-23.47.30:443][ 53]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.47.30:505][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.03.10-23.47.31:732][156]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.47.31:732][156]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.50.31:386][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.03.10-23.50.31:389][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu' took 0.043
+[2025.03.10-23.50.31:390][167]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Pause] ([2] browsable assets)...
+[2025.03.10-23.50.31:395][167]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Pause.Pause]
+[2025.03.10-23.50.31:395][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pause]
+[2025.03.10-23.50.31:395][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Pause_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.10-23.50.31:402][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pause_Auto3
+[2025.03.10-23.50.31:402][167]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Pause_Auto32F663DA7423553832D39F089BF69A4BD.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Pause_Auto3.uasset'
+[2025.03.10-23.50.31:403][167]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.03.10-23.53.47:697][946]LogContentBrowser: Attempting asset rename: Main_Menu -> Main_Menu
+[2025.03.10-23.54.00:870][334]BlueprintLog: New page: Compile Pause
+[2025.03.10-23.54.00:922][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.10-23.54.01:982][440]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.54.01:982][440]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.54.32:553][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.10-23.54.32:557][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-23.54.32:606][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset" SILENT=true
+[2025.03.10-23.54.32:614][108]LogSavePackage: Moving output files for package: /Game/UI/Pause
+[2025.03.10-23.54.32:614][108]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/PauseDD116F8E4E97ABBAAE952A9283CE8500.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset'
+[2025.03.10-23.54.32:622][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 866 ms)
+[2025.03.10-23.54.32:631][108]AssetCheck: New page: Asset Save: Pause
+[2025.03.10-23.54.32:631][108]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause.Pause
+[2025.03.10-23.56.00:583][839]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.10-23.56.00:583][839]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.11-00.00.32:063][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2025.03.11-00.00.32:069][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu' took 0.106
+[2025.03.11-00.00.32:070][619]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Pause] ([2] browsable assets)...
+[2025.03.11-00.00.32:078][619]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Pause.Pause]
+[2025.03.11-00.00.32:078][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pause]
+[2025.03.11-00.00.32:078][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Pause_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.03.11-00.00.32:098][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pause_Auto4
+[2025.03.11-00.00.32:098][619]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Pause_Auto412C330CD4325FE10BA6EBDBC802E4E74.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Autosaves/Game/UI/Pause_Auto4.uasset'
+[2025.03.11-00.00.32:099][619]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.03.11-00.01.06:913][724]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.11-00.01.06:913][724]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2025.03.11-00.01.51:394][394]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-00.01.51:400][394]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.03.11-00.01.51:401][394]LogPlayLevel: [PlayLevel] Compiling LevelSelect before play...
+[2025.03.11-00.01.51:423][394]LogPlayLevel: [PlayLevel] Compiling Pause before play...
+[2025.03.11-00.01.51:527][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.11-00.01.51:530][394]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (2 blueprints)
+[2025.03.11-00.01.51:530][394]PIE: New page: PIE session: Main_Menu (12/03/2025, 2:01:51 am)
+[2025.03.11-00.01.51:530][394]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main_Menu
+[2025.03.11-00.01.51:532][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001253s)
+[2025.03.11-00.01.51:532][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Menu.Main_Menu to /Game/Levels/UEDPIE_0_Main_Menu.Main_Menu (0.001282s)
+[2025.03.11-00.01.51:532][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.11-00.01.51:532][394]LogAIModule: Creating AISystem for world Main_Menu
+[2025.03.11-00.01.51:532][394]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2025.03.11-00.01.51:566][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.11-00.01.51:567][394]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.11-00.01.51:567][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-00.01.51:567][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-00.01.51:567][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-00.01.51:567][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-00.01.51:567][394]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.11-00.01.51:567][394]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.03.11-00.01.51:568][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.11-00.01.51:568][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-00.01.51:568][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-00.01.51:568][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-00.01.51:568][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-00.01.51:570][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-00.01.51:592][394]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2025.03.11-00.01.51:592][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-00.01.51:592][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-00.01.51:592][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-00.01.51:594][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.11-00.01.51:594][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.03.11-00.01.51:596][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.11-00.01.51:596][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.11-00.01.51:596][394]LogInit: FAudioDevice initialized.
+[2025.03.11-00.01.51:596][394]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Menu'.
+[2025.03.11-00.01.51:605][394]LogLoad: Game class is 'GameModeBase'
+[2025.03.11-00.01.51:605][394]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2025.03.11-13.01.51
+[2025.03.11-00.01.51:605][394]LogWorld: Bringing up level for play took: 0.000463
+[2025.03.11-00.01.51:608][394]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.11-00.01.51:610][394]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.11-00.01.51:610][394]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.11-00.01.51:610][394]PIE: Server logged in
+[2025.03.11-00.01.51:611][394]PIE: Play in editor total start time 0.211 seconds.
+[2025.03.11-00.01.53:884][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-00.01.53:884][559]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main_Menu
+[2025.03.11-00.01.53:884][559]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-00.01.53:885][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-00.01.53:888][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-00.01.53:893][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-00.01.53:927][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-00.01.53:928][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.11-00.01.53:929][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.11-00.01.53:936][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.11-00.01.53:961][560]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.11-00.01.59:647][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.11-00.01.59:651][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.11-00.01.59:704][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset" SILENT=true
+[2025.03.11-00.01.59:714][978]LogSavePackage: Moving output files for package: /Game/UI/Pause
+[2025.03.11-00.01.59:714][978]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Pause7E3A37B94E5869C29A8FAEA76B9E9CDF.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset'
+[2025.03.11-00.01.59:724][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 939 ms)
+[2025.03.11-00.01.59:731][978]AssetCheck: New page: Asset Save: Pause
+[2025.03.11-00.01.59:731][978]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause.Pause
