@@ -1773,3 +1773,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.11-00.01.59:724][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 939 ms)
 [2025.03.11-00.01.59:731][978]AssetCheck: New page: Asset Save: Pause
 [2025.03.11-00.01.59:731][978]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause.Pause
+[2025.03.11-00.06.36:427][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.11-00.06.36:433][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.11-00.06.36:486][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Success" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Success.uasset" SILENT=true
+[2025.03.11-00.06.36:494][231]LogSavePackage: Moving output files for package: /Game/UI/Success
+[2025.03.11-00.06.36:494][231]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Success119DF61647843936BBAD93AC297B3736.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Success.uasset'
+[2025.03.11-00.06.36:498][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause" FILE="../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset" SILENT=true
+[2025.03.11-00.06.36:761][231]LogSavePackage: Moving output files for package: /Game/UI/Pause
+[2025.03.11-00.06.36:762][231]LogSavePackage: Moving '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Saved/Pause53645AEE43F4015F75512FA350A1F5EF.tmp' to '../../../../../UnrealProjects/205_puzzle_game/205_puzzle_game/Puzzle_game/Content/UI/Pause.uasset'
+[2025.03.11-00.06.36:770][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 1.27 sec)
+[2025.03.11-00.06.36:781][231]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.11-00.06.36:781][231]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause.Pause
+[2025.03.11-00.06.36:781][231]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Success.Success
+[2025.03.11-00.06.37:898][315]BlueprintLog: New page: Compile Pause
+[2025.03.11-00.06.37:956][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.11-00.06.39:905][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.11-00.06.43:513][813]LogSlate: Window 'Pause' being destroyed
+[2025.03.11-00.06.43:520][813]LogSlate: Window 'Pause' being destroyed
+[2025.03.11-00.06.43:532][813]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-00.06.43:532][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-00.06.43:538][813]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-00.06.43:539][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-00.06.46:340][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.11-00.06.47:985][297]BlueprintLog: New page: Compile Success
+[2025.03.11-00.06.48:027][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
