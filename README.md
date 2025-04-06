@@ -8,7 +8,7 @@ Inspired by The Legend of Zelda BOTW/TOTK Shrine trials.
 
 **Controls**  
 Movement: WASD  
-Camera: Mouse   
+Camera: Mouse / Hold right click + mouse
 Pick Up: Hold E  
 Interact: Press F  
 
